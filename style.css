@@ -13,7 +13,7 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
+    background-color: black;
     color: #eb2626;
 }
 
@@ -30,3 +30,9 @@ body {
     font-family: 'Italianno', cursive;
     font-size: 90px;
 }
+
+.foods{display: flex;
+   justify-content:space-around;
+   border: red solid 5px;
+      margin: 5px;
+      padding: 5px;}
